@@ -1,0 +1,2 @@
+# getgoingwithgradle
+Starting with git
